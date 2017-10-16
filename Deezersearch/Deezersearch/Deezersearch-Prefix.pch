@@ -1,0 +1,15 @@
+//
+//  Deezersearch-Prefix.pch
+//  Deezersearch
+//
+//  Created by Amir Ghoreshi on 16/10/2017.
+//  Copyright © 2017 Amir Ghoreshi. All rights reserved.
+//
+
+#ifndef Deezersearch_Prefix_pch
+#define Deezersearch_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* Deezersearch_Prefix_pch */
